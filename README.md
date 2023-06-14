@@ -1,4 +1,5 @@
 # CrudApp
+![Screenshot (267)](https://github.com/AJNAS67/crud-app/assets/70216842/1cabade5-614f-4d42-8e0e-3601999ce1e1)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
